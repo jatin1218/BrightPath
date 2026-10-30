@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "maps": {
+    "users": [
+      [
+        "4278e755-ea2c-4577-b607-28c32530b790",
+        {
+          "id": "4278e755-ea2c-4577-b607-28c32530b790",
+          "name": "Jitendra",
+          "email": "vishwakarmanoob@gmail.com",
+          "role": "coordinator",
+          "status": "active",
+          "roll_number": "",
+          "created_at": "2026-10-28T10:35:55.984Z",
+          "passwordHash": "6b0454d09cd663a90cb48f214e608474:c5c186b49656e3ccee13a03f770db647af551ab9e8eed8ca82e22a407b338d4530d627bf187cbd6e996abac0fb199c0bc4133ec0fbd29d28821e50937944b81d",
+          "recoveryHash": "fb798889fe8a6a007de7800562b8b3fc3784f281dc1fe712fa9ce817a4b160de",
+          "factors": []
+        }
+      ]
+    ],
+    "sessions": [
+      [
+        "pjmg4ustvnWrwGAvVvvzaInU6rjZB502",
+        {
+          "userId": "4278e755-ea2c-4577-b607-28c32530b790",
+          "mfa": false,
+          "expires": 1793270156062
+        }
+      ]
+    ],
+    "invites": [],
+    "courses": [],
+    "enrollments": [],
+    "items": [],
+    "quizKeys": [],
+    "files": [],
+    "limits": [
+      [
+        "auth:register:vishwakarmanoob@gmail.com",
+        {
+          "n": 1,
+          "until": 1793184355984
+        }
+      ]
+    ]
+  },
+  "events": [
+    {
+      "id": "36c37fec-4e2b-4fb5-8888-026f92aab3de",
+      "actor_id": "4278e755-ea2c-4577-b607-28c32530b790",
+      "actor_name": "Jitendra",
+      "course_id": null,
+      "action": "account.created",
+      "title": "New account: Jitendra",
+      "created_at": "2026-10-28T10:35:56.061Z"
+    }
+  ],
+  "notifications": [],
+  "settings": {
+    "requireStaffMfa": false
+  }
+}

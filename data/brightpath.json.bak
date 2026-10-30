@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "maps": {
+    "users": [],
+    "sessions": [],
+    "invites": [],
+    "courses": [],
+    "enrollments": [],
+    "items": [],
+    "quizKeys": [],
+    "files": [],
+    "limits": []
+  },
+  "events": [],
+  "notifications": [],
+  "settings": {
+    "requireStaffMfa": false
+  }
+}
